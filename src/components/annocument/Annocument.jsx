@@ -14,10 +14,18 @@ const Annocument = () => {
       <section className='annocument background'>
         <div className='container d_flex'>
           <div className='img' style={mystyle}>
-            <image src='./images/banner-1.png' width='100%' height='100%' />
+            <image
+              src='https://res.cloudinary.com/mabhi8251/image/upload/v1659592019/Gloitel-fitness/cpu_dbqb15.png'
+              width='100%'
+              height='100%'
+            />
           </div>
           <div className='img' style={mystyle1}>
-            <image src='./images/banner-2.png' width='100%' height='100%' />
+            <image
+              src='https://res.cloudinary.com/mabhi8251/image/upload/v1659592019/Gloitel-fitness/cpu_dbqb15.png'
+              width='100%'
+              height='100%'
+            />
           </div>
         </div>
       </section>

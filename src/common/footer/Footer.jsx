@@ -7,7 +7,7 @@ const Footer = () => {
       <footer>
         <div className='container grid2'>
           <div className='box'>
-            <h1>Bonik</h1>
+            <h1>Repaire</h1>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor libero id et, in gravida. Sit diam duis
               mauris nulla cursus. Erat et lectus vel ut sollicitudin elit at amet.
@@ -47,9 +47,9 @@ const Footer = () => {
           <div className='box'>
             <h2>Contact Us</h2>
             <ul>
-              <li>70 Washington Square South, New York, NY 10012, United States </li>
-              <li>Email: uilib.help@gmail.com</li>
-              <li>Phone: +1 1123 456 780</li>
+              <li>80 first floor ghadi chock</li>
+              <li>Email: repaire@122</li>
+              <li>Phone: +9188888888</li>
             </ul>
           </div>
         </div>

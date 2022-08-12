@@ -3,48 +3,48 @@ import React from 'react';
 const Categories = () => {
   const data = [
     {
-      cateImg: './images/category/cat1.png',
-      cateName: 'Fashion',
+      cateImg: 'https://res.cloudinary.com/mabhi8251/image/upload/v1659591199/Gloitel-fitness/car-repair_bhxabv.png',
+      cateName: 'AC-Repair',
     },
     {
-      cateImg: './images/category/cat2.png',
-      cateName: 'Electronic',
+      cateImg: 'https://res.cloudinary.com/mabhi8251/image/upload/v1659591199/Gloitel-fitness/car-repair_bhxabv.png',
+      cateName: 'Air-Cooler Repair',
     },
     {
-      cateImg: './images/category/cat3.png',
-      cateName: 'Cars',
+      cateImg: 'https://res.cloudinary.com/mabhi8251/image/upload/v1659591199/Gloitel-fitness/car-repair_bhxabv.png',
+      cateName: 'Gas-Stove Reapir',
     },
     {
-      cateImg: './images/category/cat4.png',
-      cateName: 'Home & Garden',
+      cateImg: 'https://res.cloudinary.com/mabhi8251/image/upload/v1659591199/Gloitel-fitness/car-repair_bhxabv.png',
+      cateName: 'Geyser Repair',
     },
     {
-      cateImg: './images/category/cat5.png',
-      cateName: 'Gifts',
+      cateImg: 'https://res.cloudinary.com/mabhi8251/image/upload/v1659591199/Gloitel-fitness/car-repair_bhxabv.png',
+      cateName: 'Inverter Repair',
     },
     {
-      cateImg: './images/category/cat6.png',
-      cateName: 'Music',
+      cateImg: 'https://res.cloudinary.com/mabhi8251/image/upload/v1659591199/Gloitel-fitness/car-repair_bhxabv.png',
+      cateName: 'Kitchan-chimny Repair',
     },
     {
-      cateImg: './images/category/cat7.png',
-      cateName: 'Health & Beauty',
+      cateImg: 'https://res.cloudinary.com/mabhi8251/image/upload/v1659591199/Gloitel-fitness/car-repair_bhxabv.png',
+      cateName: 'Microwave-oven Repair',
     },
     {
-      cateImg: './images/category/cat8.png',
-      cateName: 'Pets',
+      cateImg: 'https://res.cloudinary.com/mabhi8251/image/upload/v1659591199/Gloitel-fitness/car-repair_bhxabv.png',
+      cateName: 'Refrigarator Repair',
     },
     {
-      cateImg: './images/category/cat9.png',
-      cateName: 'Baby Toys',
+      cateImg: 'https://res.cloudinary.com/mabhi8251/image/upload/v1659591199/Gloitel-fitness/car-repair_bhxabv.png',
+      cateName: 'TV Repair',
     },
     {
-      cateImg: './images/category/cat10.png',
-      cateName: 'Groceries',
+      cateImg: 'https://res.cloudinary.com/mabhi8251/image/upload/v1659591199/Gloitel-fitness/car-repair_bhxabv.png',
+      cateName: 'washing-Machine Repair',
     },
     {
-      cateImg: './images/category/cat11.png',
-      cateName: 'Books',
+      cateImg: 'https://res.cloudinary.com/mabhi8251/image/upload/v1659591199/Gloitel-fitness/car-repair_bhxabv.png',
+      cateName: 'water-cooler Repair',
     },
   ];
 
